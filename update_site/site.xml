@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/caponeFeature_1.0.0.202205181255.jar" id="caponeFeature" version="1.0.0.202205181255"/>
+   <feature url="features/capone_1.1.0.beta.jar" id="capone" version="1.1.0.beta" os="win32"/>
 </site>
